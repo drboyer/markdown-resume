@@ -23,8 +23,8 @@ January 2012-December 2013
 * Implemented new features and recommendations for organization's website, and also fixed existing bugs
 * Re-engineered site security model including authentication and PHP database access to prevent attacks
 ## Technical Skills
-**Proficient languages:** Perl, Python, Bash, JavaScript, C#, PHP, HTML/CSS
-**Working Knowledge languages:** C/C++, Java, Go, PowerShell
+**Proficient Languages:** Perl, Python, Bash, JavaScript, C#, PHP, HTML/CSS
+**Working Knowledge Languages:** C/C++, Java, Go, PowerShell
 **Platforms/Toolsets:** Linux, Mac OS X, Windows, Git, AWS, Heroku, SaltStack, Vagrant, Packer, MySQL, PostgreSQL
 ## Education
 **Bachelor of Science, Meteorology (2014)** - The Pennsylvania State University, University Park, PA 

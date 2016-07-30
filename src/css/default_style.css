@@ -1,0 +1,55 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800';
+
+body {
+    font-family: 'Open Sans', serif;
+    font-size: 7pt;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 18pt;
+    margin: 0 0 2px 0;
+    color: #2E3975;
+}
+
+h2 {
+    font-size: 13pt;
+    margin: 0 0 5px 0;
+}
+
+h3 {
+    font-size: 10pt;
+    margin: 0;
+}
+
+a {
+    color: black;
+}
+
+/* hackish solution to disable the parenthetical URL after links
+from: https://github.com/alanshaw/markdown-pdf/issues/93 */
+a[href]:after {
+    content: "" !important;
+}
+
+p {
+    margin-top: 0;
+}
+
+li {
+    margin-left: -25px;
+}
+
+.locator {
+    font-style: italic;
+    font-size: smaller;
+    margin: 0;
+}
+
+.light-bold {
+    font-weight: 600;
+}
+
+.education-line1 {
+    margin: 0;
+}

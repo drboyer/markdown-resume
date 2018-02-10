@@ -2,10 +2,10 @@
 **Email:** drb5272@gmail.com  &bull;  **Web Address:** [thecloudonline.net](https://thecloudonline.net)
 
 ## Software Development Experience
-### Meteorological Software Engineer, The Weather Company (WSI, Inc)
+### Meteorological Software Engineer, The Weather Company (formerly WSI, Inc)
 June 2014-present, Andover, MA
 {locator}
-* Implemented migration and upgrade of the group's codebase and infrastructure into AWS, including setup of a modern CI/CD workflow and creating fully automated infastructure provisioning using CloudFormation and SaltStack.
+* Gained over 18 months experience with AWS while migrating and upgrading my group's codebase and infrastructure in the public cloud, including design of a modern CI/CD workflow and creating fully automated infastructure provisioning using CloudFormation and SaltStack.
 * Create and maintain production-level code as part of an Agile development team, ingesting and processing various meteorological data sets and formats and displaying them via an ASP.NET MVC web platform.
 *  Immediately took ownership of the WSI Energy model graphics output, quickly completing an overhaul of the underlying GrADS code and continuing to provide enhancements.
 ### Development Intern - Weather Underground
@@ -21,11 +21,11 @@ May-July 2012, Andover, MA
 January 2012-December 2013
 {locator}
 * Implemented new features and recommendations for organization's website, and also fixed existing bugs
-* Re-engineered site security model including authentication and PHP database access to prevent attacks
+* Re-engineered site security model including authentication and PHP database access layers to prevent attacks
 ## Technical Skills
-**Proficient Languages:** Perl, Python, Bash, JavaScript, C#, PHP, HTML/CSS
+**Proficient Languages:** Perl, Python, Bash, JavaScript/Node.js, C#, PHP, HTML/CSS
 **Working Knowledge Languages:** C/C++, Java, Go, PowerShell
-**Platforms/Toolsets:** Linux, Mac OS X, Windows, Git, AWS, Heroku, SaltStack, Vagrant, Packer, MySQL, PostgreSQL, QGIS
+**Platforms/Toolsets:** Linux, Mac OS X, Windows, Git, AWS, Heroku, DigitalOcean, SaltStack, Vagrant, Packer, MySQL, PostgreSQL, Cassandra
 ## Education
 **Bachelor of Science, Meteorology (2014)** - The Pennsylvania State University, University Park, PA 
 {education-line1}

@@ -2,8 +2,13 @@
 **Email:** drb5272@gmail.com  &bull;  **Web Address:** [thecloudonline.net](https://thecloudonline.net)
 
 ## Software Development Experience
+### Data Engineer, Mapbox
+April 2017-present, Washington, DC
+{locator}
+* Design and maintain software stacks for the Data Engineering team. Develop a successful data warehouse and advocate its use to other teams in the company.
+* Implement data pipelines to efficiently and securely process multiple large datasets using tools like Node.js, Python, Spark, Hive, and AWS Kinesis.
 ### Meteorological Software Engineer, The Weather Company (formerly WSI, Inc)
-June 2014-present, Andover, MA
+June 2014-March 2017, Andover, MA
 {locator}
 * Gained over 18 months experience with AWS while migrating and upgrading my group's codebase and infrastructure in the public cloud, including design of a modern CI/CD workflow and creating fully automated infastructure provisioning using CloudFormation and SaltStack.
 * Create and maintain production-level code as part of an Agile development team, ingesting and processing various meteorological data sets and formats and displaying them via an ASP.NET MVC web platform.
@@ -23,9 +28,9 @@ January 2012-December 2013
 * Implemented new features and recommendations for organization's website, and also fixed existing bugs
 * Re-engineered site security model including authentication and PHP database access layers to prevent attacks
 ## Technical Skills
-**Proficient Languages:** Perl, Python, Bash, JavaScript/Node.js, C#, PHP, HTML/CSS
+**Proficient Languages:** Perl, Python, JavaScript/Node.js, Bash, C#, PHP, HTML/CSS
 **Working Knowledge Languages:** C/C++, Java, Go, PowerShell
-**Platforms/Toolsets:** Linux, Mac OS X, Windows, Git, AWS, Heroku, DigitalOcean, SaltStack, Vagrant, Packer, MySQL, PostgreSQL, Cassandra
+**Platforms/Toolsets:** Linux, Mac OS X, Windows, Git, AWS, Heroku, DigitalOcean, SaltStack, Vagrant, Packer, MySQL, PostgreSQL, Docker, Cassandra, Spark
 ## Education
 **Bachelor of Science, Meteorology (2014)** - The Pennsylvania State University, University Park, PA 
 {education-line1}
